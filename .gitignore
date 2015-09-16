@@ -1,0 +1,12 @@
+*.tlog
+test/Debug/test.pdb
+test/Debug/test.lastbuildstate
+test/Debug/test.ilk
+test/Debug/test.exe
+test/Debug/main.obj
+test/Debug/test.log
+test/Debug/vc110.pdb
+test/test.v11.suo
+test/test.opensdf
+test/Debug/vc110.idb
+test/test.sdf
