@@ -11,5 +11,6 @@ int main()
   cout<<"no 3 version"<<endl;
   cout<<fun_string("AAA","BBB")<<endl;
   system("pause");
+  add wrong
   return 0;
 }
