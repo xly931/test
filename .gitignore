@@ -10,3 +10,5 @@ test/test.v11.suo
 test/test.opensdf
 test/Debug/vc110.idb
 test/test.sdf
+test/test.vcxproj.filters
+test/test.vcxproj.filters
