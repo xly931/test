@@ -11,5 +11,13 @@ int main()
   cout<<"no 3 version"<<endl;
   cout<<fun_string("AAA","BBB")<<endl;
   system("pause");
+  TRY 
+  {
+  }
+  CATCH (CMemoryException, e)
+  {
+  	
+  }
+  END_CATCH
   return 0;
 }
