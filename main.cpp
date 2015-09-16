@@ -12,6 +12,5 @@ int main()
   cout<<fun_string("AAA","BBB")<<endl;
   system("pause");
   xxxx
-	  xxxx
   return 0;
 }
